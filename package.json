@@ -1,0 +1,24 @@
+{
+  "name": "thinkout-mobile-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamsrz/ThinkOut-MobileBackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamsrz/ThinkOut-MobileBackend/issues"
+  },
+  "homepage": "https://github.com/williamsrz/ThinkOut-MobileBackend#readme",
+   "dependencies": {
+    "express": "^4.13.0",
+    "azure-mobile-apps": "^2.0.0-beta1"
+  },
+  "devDependencies": {}
+}
